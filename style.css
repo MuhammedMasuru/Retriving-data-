@@ -1,0 +1,23 @@
+div{
+    background-color: aqua;
+    text-align: center;
+    
+}
+table{
+    border: .1rem solid black;
+    border-collapse: collapse;
+    width: 80rem;
+    height: 80vh;
+    
+
+}
+tr{
+    border: .1rem solid black;
+    border-collapse: collapse;
+}
+tbody{
+    color: blueviolet;
+}
+tr{
+    text-align: center;
+}
